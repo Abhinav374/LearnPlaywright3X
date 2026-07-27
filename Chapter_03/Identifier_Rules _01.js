@@ -5,3 +5,4 @@ var abc=123;
 // var 123abc= 1; //not allowed
  //var abc 123=1;//not valid
  
+ 
